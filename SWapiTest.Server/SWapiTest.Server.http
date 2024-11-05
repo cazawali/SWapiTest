@@ -1,0 +1,6 @@
+@SWapiTest.Server_HostAddress = http://localhost:5270
+
+GET {{SWapiTest.Server_HostAddress}}/searchstar/
+Accept: application/json
+
+###

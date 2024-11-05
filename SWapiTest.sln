@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWapiTest.Server", "SWapiTest.Server\SWapiTest.Server.csproj", "{80564A04-F55F-479E-B2F3-9373C52B840B}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "swapitest.client", "swapitest.client\swapitest.client.esproj", "{80DFA873-7197-4547-B103-76B38C2BF19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80564A04-F55F-479E-B2F3-9373C52B840B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80564A04-F55F-479E-B2F3-9373C52B840B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80564A04-F55F-479E-B2F3-9373C52B840B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80564A04-F55F-479E-B2F3-9373C52B840B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DFA873-7197-4547-B103-76B38C2BF19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DFA873-7197-4547-B103-76B38C2BF19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DFA873-7197-4547-B103-76B38C2BF19D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{80DFA873-7197-4547-B103-76B38C2BF19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DFA873-7197-4547-B103-76B38C2BF19D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DFA873-7197-4547-B103-76B38C2BF19D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00E7A0E3-90AB-47E3-B6B1-F812D005D696}
+	EndGlobalSection
+EndGlobal
